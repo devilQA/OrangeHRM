@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-09T11:32:37 IST" name="Surefire suite" finished-at="2023-02-09T11:33:14 IST" duration-ms="37119">
+    <groups>
+      <group name="regration">
+        <method signature="HomePageTest.validatetheLoginwithProperCredentials()[pri:0, instance:com.info.tests.HomePageTest@62163b39]" name="validatetheLoginwithProperCredentials" class="com.info.tests.HomePageTest"/>
+      </group> <!-- regration -->
+      <group name="sanity">
+        <method signature="HomePageTest.validatetheLoginwithProperCredentials()[pri:0, instance:com.info.tests.HomePageTest@62163b39]" name="validatetheLoginwithProperCredentials" class="com.info.tests.HomePageTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2023-02-09T11:32:37 IST" name="Surefire test" finished-at="2023-02-09T11:33:14 IST" duration-ms="37119">
+      <class name="com.info.tests.StationLocationSerchTest">
+        <test-method signature="main()[pri:0, instance:com.info.tests.StationLocationSerchTest@41e350f1]" started-at="2023-02-09T11:33:09 IST" name="main" finished-at="2023-02-09T11:33:14 IST" duration-ms="5294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- com.info.tests.StationLocationSerchTest -->
+      <class name="com.info.tests.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.info.tests.HomePageTest@62163b39]" started-at="2023-02-09T11:32:37 IST" name="setup" finished-at="2023-02-09T11:32:47 IST" duration-ms="9771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateUserIdTextBox()[pri:0, instance:com.info.tests.HomePageTest@62163b39]" started-at="2023-02-09T11:32:47 IST" name="validateUserIdTextBox" finished-at="2023-02-09T11:32:48 IST" duration-ms="1166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserIdTextBox -->
+        <test-method is-config="true" signature="closeAll()[pri:0, instance:com.info.tests.HomePageTest@62163b39]" started-at="2023-02-09T11:32:48 IST" name="closeAll" finished-at="2023-02-09T11:32:49 IST" duration-ms="666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.info.tests.HomePageTest@62163b39]" started-at="2023-02-09T11:32:49 IST" name="setup" finished-at="2023-02-09T11:32:55 IST" duration-ms="6528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatetheLoginwithProperCredentials()[pri:0, instance:com.info.tests.HomePageTest@62163b39]" started-at="2023-02-09T11:32:55 IST" name="validatetheLoginwithProperCredentials" finished-at="2023-02-09T11:32:57 IST" duration-ms="2324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetheLoginwithProperCredentials -->
+        <test-method is-config="true" signature="closeAll()[pri:0, instance:com.info.tests.HomePageTest@62163b39]" started-at="2023-02-09T11:32:57 IST" name="closeAll" finished-at="2023-02-09T11:32:58 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.info.tests.HomePageTest@62163b39]" started-at="2023-02-09T11:32:58 IST" name="setup" finished-at="2023-02-09T11:33:08 IST" duration-ms="10733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateThe_Password__textBox()[pri:1, instance:com.info.tests.HomePageTest@62163b39]" started-at="2023-02-09T11:33:08 IST" name="validateThe_Password__textBox" finished-at="2023-02-09T11:33:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateThe_Password__textBox -->
+        <test-method is-config="true" signature="closeAll()[pri:0, instance:com.info.tests.HomePageTest@62163b39]" started-at="2023-02-09T11:33:08 IST" name="closeAll" finished-at="2023-02-09T11:33:09 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+      </class> <!-- com.info.tests.HomePageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
